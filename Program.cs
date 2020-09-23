@@ -2,7 +2,7 @@
 
 namespace design_pattern_singleton
 {
-    class Program
+    class Setup
     {
         static void Main(string[] args)
         {
