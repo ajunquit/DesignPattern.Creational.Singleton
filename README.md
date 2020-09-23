@@ -93,7 +93,7 @@ https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFn
 
 # About me
 
-I'm developer software from Ecuador
+I'm software developer from Ecuador
 > Name: Alejandro Junqui (@ajunquit)
 > Web Site: ajunquit.com/website
 > Email: ajunquit@gmail.com
